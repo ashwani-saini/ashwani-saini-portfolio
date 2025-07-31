@@ -18,7 +18,7 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="tel:9837765511"><CallIcon/></a>
+            <a href="tel:9837765511" target="_blank" rel="noreferrer"><CallIcon/></a>
             <a href="https://wa.me/919837765511" target="_blank" rel="noreferrer"><WhatsappIcon/></a>
             <a href="https://mail.google.com/mail/?view=cm&to=ashwanisaini375@gmail.com&su=Enquiry%20from%20your%20portfolio&body=Hi%20Ashwani%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect.%0A%0AThanks!" target="_blank" rel="noreferrer"><GmailIcon/></a>
             <a href="https://www.instagram.com/ashwani__saini?igsh=M213YXB6cmoweGM3" target="_blank" rel="noreferrer"><InstagramIcon/></a>
